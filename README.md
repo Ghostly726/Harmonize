@@ -8,5 +8,5 @@
 <li>Backend: golang</li>
 <li>frontend: Dart (flutter)</li>
 <li>database: MongoDB</li>
-<li>RESTful API endpoints to communicate between your frontend and backend.</li>
+<li>RESTful API endpoints to communicate between frontend and backend.</li>
 </ol>
